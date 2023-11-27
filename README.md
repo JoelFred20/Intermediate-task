@@ -7,7 +7,7 @@ This repository guides you through building, training, and evaluating deep neura
 
 
 # Step 1: Setting Up Environment
-# 1.1 Install Necessary Libraries
+1.1 Install Necessary Libraries
 This step involves installing the essential libraries for deep learning using the command pip install tensorflow matplotlib nltk. TensorFlow is used for building neural network models, matplotlib for visualizations, and nltk for natural language processing tasks.
 # 1.2 Import Libraries
 In your Jupyter notebook, import the libraries needed for the project. TensorFlow and Keras provide the tools for building and training neural networks, while other libraries like matplotlib and nltk offer additional functionalities for visualization and natural language processing.
@@ -28,8 +28,6 @@ Create a neural network for text classification. This involves using an embeddin
 
 
 # Step 4: Train and Evaluate Models
-
-
 # 4.1 Train Image Recognition Model
 Train the image recognition model using the CIFAR-10 dataset. The model is trained for a specified number of epochs, and training/validation data are provided to evaluate its performance.
 # 4.2 Train Natural Language Processing Model
